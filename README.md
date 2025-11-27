@@ -104,7 +104,7 @@ http://localhost:3000
 ---
 
 Live Demo
-Add your deployed Vercel link here:
+Vercel link:
 ```
 https://your-vercel-link.vercel.app
 ```
